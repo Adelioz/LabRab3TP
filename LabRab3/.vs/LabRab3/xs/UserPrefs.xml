@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A4BA8BA2-FE67-4CF9-BD55-357FF2FA9C99}|Default">
+  <MonoDevelop.Ide.ItemProperties.LabRab3 PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LabRab3/ViewController.cs">
+    <Files>
+      <File FileName="LabRab3/Student.cs" Line="27" Column="1" />
+      <File FileName="LabRab3/ViewController.cs" Line="94" Column="34" />
+      <File FileName="LabRab3/StudentTableDelegate.cs" Line="56" Column="75" />
+      <File FileName="LabRab3/StudentTableDataSource.cs" />
+      <File FileName="LabRab3/Main.cs" />
+      <File FileName="LabRab3/ViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LabRab3" expanded="True">
+            <Node name="LabRab3" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

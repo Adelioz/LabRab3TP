@@ -1,0 +1,13 @@
+/Users/adelrahimov/Projects/LabRab3/LabRab3/obj/Debug/actool/_PartialAppManifest.items
+/Users/adelrahimov/Projects/LabRab3/LabRab3/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/adelrahimov/Projects/LabRab3/LabRab3/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/adelrahimov/Projects/LabRab3/LabRab3/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/adelrahimov/Projects/LabRab3/LabRab3/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/adelrahimov/Projects/LabRab3/LabRab3/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/adelrahimov/Projects/LabRab3/LabRab3/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/adelrahimov/Projects/LabRab3/LabRab3/obj/Debug/LabRab3.csprojAssemblyReference.cache
+/Users/adelrahimov/Projects/LabRab3/LabRab3/obj/Debug/LabRab3.csproj.CoreCompileInputs.cache
+/Users/adelrahimov/Projects/LabRab3/LabRab3/bin/Debug/LabRab3.exe
+/Users/adelrahimov/Projects/LabRab3/LabRab3/bin/Debug/LabRab3.pdb
+/Users/adelrahimov/Projects/LabRab3/LabRab3/obj/Debug/LabRab3.exe
+/Users/adelrahimov/Projects/LabRab3/LabRab3/obj/Debug/LabRab3.pdb
